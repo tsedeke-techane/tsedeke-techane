@@ -18,11 +18,11 @@
 
 <p align="center">
 
-  <!-- JavaScript -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" />
+  <!-- JavaScript (smaller) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="38" height="38" />
 
-  <!-- TypeScript -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" />
+  <!-- TypeScript (smaller) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="38" height="38" />
 
   <!-- React -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" />
@@ -63,13 +63,14 @@
   <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" />
 
-  <!-- LangChain (FIXED) -->
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LangChain-Dark.svg" width="45" height="45" />
+  <!-- LangChain (working PNG) -->
+  <img src="https://raw.githubusercontent.com/ammarahmedsoft/brand-icons/main/langchain.png" width="45" height="45" />
 
-  <!-- OpenAI (FIXED) -->
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" width="45" height="45" />
+  <!-- OpenAI (working SVG) -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" width="45" height="45" />
 
 </p>
+
 
 
 
