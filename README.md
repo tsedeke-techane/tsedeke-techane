@@ -51,19 +51,26 @@
   <!-- Git -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" />
 
+  <!-- GitHub -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" />
+
+  <!-- Slack -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="45" height="45" />
+
   <!-- Docker -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" />
 
   <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" />
 
-  <!-- LangChain -->
-  <img src="https://skillicons.dev/icons?i=langchain" width="45" height="45"/>
+  <!-- LangChain (FIXED) -->
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LangChain-Dark.svg" width="45" height="45" />
 
-  <!-- OpenAI -->
-  <img src="https://skillicons.dev/icons?i=openai" width="45" height="45"/>
+  <!-- OpenAI (FIXED) -->
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" width="45" height="45" />
 
 </p>
+
 
 
 
