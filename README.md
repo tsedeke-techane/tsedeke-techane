@@ -62,9 +62,6 @@
   <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" />
 
-  <!-- LangChain (100% working PNG) -->
-  <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/logo.png" width="45" height="45" />
-
   <!-- OpenAI (official logo) -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" width="45" height="45" />
 
