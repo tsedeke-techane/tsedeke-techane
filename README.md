@@ -15,7 +15,6 @@
 - 📫 **Reach me at:**   <br/>  <br/> [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tsedeke-techane/)  <br/> [![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://www.x.com/TsedekeTechane)   <br/> [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tsedeketechane@gmail.com)  <br/>  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@tsedeke_techane)
 
 ### 🛠️ Languages and Tools:
-
 <p align="center">
 
   <!-- JavaScript (smaller) -->
@@ -54,8 +53,8 @@
   <!-- GitHub -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" />
 
-  <!-- Slack -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="45" height="45" />
+  <!-- Slack (smaller) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="38" height="38" />
 
   <!-- Docker -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" />
@@ -63,13 +62,17 @@
   <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" />
 
-  <!-- LangChain (working PNG) -->
-  <img src="https://raw.githubusercontent.com/ammarahmedsoft/brand-icons/main/langchain.png" width="45" height="45" />
+  <!-- LangChain (100% working PNG) -->
+  <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/logo.png" width="45" height="45" />
 
-  <!-- OpenAI (working SVG) -->
+  <!-- OpenAI (official logo) -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" width="45" height="45" />
 
+  <!-- Notion -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" width="45" height="45" />
+
 </p>
+
 
 
 
