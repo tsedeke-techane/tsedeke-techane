@@ -18,82 +18,53 @@
 
 <p align="center">
 
-    <!-- JavaScript -->
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
-    </a>
+  <!-- JavaScript -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" />
 
-    <!-- TypeScript -->
-    <a href="https://www.typescriptlang.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/>
-    </a>
+  <!-- TypeScript -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" />
 
-    <!-- React -->
-    <a href="https://reactjs.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45" alt="React"/>
-    </a>
+  <!-- React -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" />
 
-    <!-- Next.js -->
-    <a href="https://nextjs.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="45" height="45" alt="Next.js"/>
-    </a>
+  <!-- Next.js -->
+  <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45"/>
 
-    <!-- TailwindCSS -->
-    <a href="https://tailwindcss.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45" height="45" alt="TailwindCSS"/>
-    </a>
+  <!-- Tailwind CSS -->
+  <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45"/>
 
-    <!-- Node.js -->
-    <a href="https://nodejs.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js"/>
-    </a>
+  <!-- Node.js -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" />
 
-    <!-- Express.js -->
-    <a href="https://expressjs.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="45" height="45" alt="Express.js"/>
-    </a>
+  <!-- Express -->
+  <img src="https://skillicons.dev/icons?i=express" width="45" height="45"/>
 
-    <!-- Nest.js -->
-    <a href="https://nestjs.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="45" height="45" alt="Nest.js"/>
-    </a>
+  <!-- Nest.js -->
+  <img src="https://skillicons.dev/icons?i=nestjs" width="45" height="45"/>
 
-    <!-- PostgreSQL -->
-    <a href="https://www.postgresql.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL"/>
-    </a>
+  <!-- PostgreSQL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" />
 
-    <!-- MongoDB -->
-    <a href="https://www.mongodb.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB"/>
-    </a>
+  <!-- MongoDB -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45" />
 
-    <!-- Git -->
-    <a href="https://git-scm.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" height="45" alt="Git"/>
-    </a>
+  <!-- Git -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" />
 
-    <!-- Docker -->
-    <a href="https://www.docker.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45" height="45" alt="Docker"/>
-    </a>
+  <!-- Docker -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" />
 
-    <!-- Python -->
-    <a href="https://www.python.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
-    </a>
+  <!-- Python -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" />
 
-    <!-- LangChain -->
-    <a href="https://www.langchain.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LangChain-Dark.svg" width="45" height="45" alt="LangChain"/>
-    </a>
+  <!-- LangChain -->
+  <img src="https://skillicons.dev/icons?i=langchain" width="45" height="45"/>
 
-    <!-- OpenAI -->
-    <a href="https://openai.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/openai/openai-original.svg" width="45" height="45" alt="OpenAI"/>
-    </a>
+  <!-- OpenAI -->
+  <img src="https://skillicons.dev/icons?i=openai" width="45" height="45"/>
 
 </p>
+
 
 
 ### 📈 GitHub Stats:
