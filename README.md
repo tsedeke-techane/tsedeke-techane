@@ -77,7 +77,7 @@
 
 
 
-<p align="center">
+<!-- <p align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=tsedeke-techane&show_icons=true&theme=radical" alt="Tsedeke's's GitHub stats">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsedeke-techane&layout=compact&theme=radical" alt="Top Languages">
-</p>
+</p> -->
